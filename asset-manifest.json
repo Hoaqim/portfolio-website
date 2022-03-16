@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.411739f6.css",
-    "main.js": "/portfolio-website/static/js/main.e9bedc86.js",
+    "main.css": "/portfolio-website/static/css/main.a43222d0.css",
+    "main.js": "/portfolio-website/static/js/main.0bc9fdc6.js",
+    "static/media/hrmanager.mp4": "/portfolio-website/static/media/hrmanager.f6f29ed2d1a4df790d35.mp4",
+    "static/media/algo.mp4": "/portfolio-website/static/media/algo.c810ce02cd2d562b9a17.mp4",
     "index.html": "/portfolio-website/index.html",
-    "main.411739f6.css.map": "/portfolio-website/static/css/main.411739f6.css.map",
-    "main.e9bedc86.js.map": "/portfolio-website/static/js/main.e9bedc86.js.map"
+    "main.a43222d0.css.map": "/portfolio-website/static/css/main.a43222d0.css.map",
+    "main.0bc9fdc6.js.map": "/portfolio-website/static/js/main.0bc9fdc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.411739f6.css",
-    "static/js/main.e9bedc86.js"
+    "static/css/main.a43222d0.css",
+    "static/js/main.0bc9fdc6.js"
   ]
 }
