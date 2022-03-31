@@ -1,0 +1,33 @@
+.gradient-text {
+  background-color: #c54e4e;
+  background-image: linear-gradient(
+    30deg,
+    #9a181cfd 16.666%,
+    #da532e 16.666%,
+    #d0370c 33.333%,
+    #ea6d0d 33.333%,
+    #f36900 50%,
+    #7f9438 50%,
+    #6e8f01 66.666%,
+    #476098 66.666%,
+    #476098 83.333%,
+    #a7489b 83.333%
+  );
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow-text-rev 1.5s infinite;
+}
+
+@keyframes rainbow-text-rev {
+  0% {
+    background-size: 0%;
+  }
+  50% {
+    background-size: 50%;
+  }
+  100% {
+    background-size: 100%;
+  }
+}
